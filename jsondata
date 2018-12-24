@@ -1,5 +1,5 @@
 {
-  "isUpdate": false,
+  "isUpdate":"true",
   "titlemsg": "New Version Available",
   "discriptionmsg": "Plesae,update Game to new version",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.adityapromotions.worddetective",
